@@ -18,8 +18,8 @@ because the organization holds the copyright.*
 [Jonas mg](https://github.com/kless)
 
 ### Maintainer
-
-
+[James Barlow](https://github.com/jdesk)
+[website] (https://nginxhosting.co) (https://jurisdesk.com) (https://mysimpleclouds.com) (http://forums.mysimpleclouds.com) (http://dockerd.io)
 
 ### Other authors
 
