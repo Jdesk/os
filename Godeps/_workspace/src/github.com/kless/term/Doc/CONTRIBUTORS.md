@@ -18,12 +18,12 @@ because the organization holds the copyright.*
 [Jonas mg](https://github.com/kless)
 
 ### Maintainer
-[James Barlow](https://github.com/jdesk)
-[NGINX HOSTING Co](https://nginxhosting.co)
-[Jurisdesk LLC](https://jurisdesk.com)
-[Mysimpleclouds](https://mysimpleclouds.com)
-[Our Forums](http://forums.mysimpleclouds.com) 
-[docker-devs](https://dockerd.io)
+- *[James Barlow](https://github.com/jdesk)*
+- **[NGINX HOSTING Co](https://nginxhosting.co)**
+- **[Jurisdesk LLC](https://jurisdesk.com)**
+- **[Mysimpleclouds](https://mysimpleclouds.com)**
+- **[Our Forums](http://forums.mysimpleclouds.com)** 
+- **[docker-devs](https://dockerd.io)**
 
 ### Other authors
 
