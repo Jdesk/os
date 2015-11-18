@@ -19,7 +19,11 @@ because the organization holds the copyright.*
 
 ### Maintainer
 [James Barlow](https://github.com/jdesk)
-[website] (https://nginxhosting.co) (https://jurisdesk.com) (https://mysimpleclouds.com) (http://forums.mysimpleclouds.com) (http://dockerd.io)
+[NGINX HOSTING Co](https://nginxhosting.co)
+[Jurisdesk LLC](https://jurisdesk.com)
+[Mysimpleclouds](https://mysimpleclouds.com)
+[Our Forums](http://forums.mysimpleclouds.com) 
+[docker-devs](https://dockerd.io)
 
 ### Other authors
 
